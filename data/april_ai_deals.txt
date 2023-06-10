@@ -1,0 +1,156 @@
+OpenAI Americas $300 $11,310 Developer of an artificial intelligence-based research and deployment platform
+CoreWeave North America $221 $371 CoreWeave develops cloud infrastructure designed to supply projects and blockchain with computer power
+HeartFlow North America $215 $757 HeartFlow provides a digital health service platform to transform heart disease diagnosis and treatments
+Kite North America $200 $200 Kite is an e-commerce company
+Miovision North America $194 $331 Miovision provides digital solutions to address urban traffic problems
+Distalmotion Europe $150 $240 Distalmotion develops a surgery platform for minimally invasive operations
+Noah Medical North America $150 $150 Noah Medical develops medical robotic devices that aid in surgeries, diagnoses, and treatments
+Quantexa Europe $129 $373 Developer of entity resolution and network analytics technology designed to help organizations to improve operational and data-driven decisions
+AlphaSense North America $100 $597 AlphaSense develops a market intelligence platform
+Cybereason North America $100 $814 Cybereason develops software to help track the actions of would-be cyber attackers
+Pinecone Americas $100 $138 Developer of a vector database platform intended to deploy complex machine learning applications at scale and with ease
+Replit North America $97 $208 Replit is a software development platform that operates an online programming and computing platform intended to make coding accessible
+SiPearl Europe $97 $71 Developer of microprocessors for the European exascale supercomputer designed for technological leadership and independence
+Celestial AI Americas $96 $160 Developer of a data center and edge AI computing technology designed to serve deep learning and machine learning applications
+Super.com Americas $85 $266 Developer of a financial application designed to empower users to spend less, save more and build credit
+Coronet Middle East $75 $178 Provider of an all-in-one security solution intended to defend against malware, ransomware, phishing, and bots
+Covariant North America $75 $202 Covariant AI operates as a developer of artificial intelligence (AI) software
+EdgeQ Americas $72 $134 Developer of 5G systems designed to offer converged connectivity and AI that is fully software-customizable and programmable
+Spring Health North America $71 $367 Spring Health provides personalized mental healthcare for employees' well-being
+Fourthline Europe $54 $71 Fourthline provides know-your-customer (KYC) and anti-money laundering (AML) compliance solutions
+Odeko North America $53 $176 Odeko provides an inventory management system for cafes
+Enveda Biosciences North America $51 $181 Enveda Biosciences is a biotechnology company building the first high-resolution chemical map of the natural world
+Everstream Analytics Europe $50 $95 Developer of a cloud-based platform designed to predict, assess and mitigate the risk of supply chain disruptions
+Ghost Autonomy Americas $50 $215 Developer of an automated driving device designed to serve passenger cars
+Halcyon Americas $50 $69 Developer of a cybersecurity platform designed to stop ransomware from impacting enterprise customers
+Weaviate Europe $50 $67 Weaviate develops and manages a cloud-native search engine that allows users to bring machine learning models to scale
+ALICE Technologies Americas $25 $47 Developer of an artificial Intelligence platform intended for modern artificial intelligence and optimization techniques
+Hokodo Europe $46 $102 Operator of a digital platform intended to make the business-to-business trade easier and safer
+Winning Tech Asia $44 $44 Provider of digital risk control solutions for medical insurance and commercial health insurance
+Hangzhou Xinglin Asia $44 $44 Provider and developer of high density computing solutions
+Clerkie North America $33 $35 Clerkie operates as an account-linked expense management platform for individuals
+Soft Space Asia $32 $56 Developer of a digital payment platform intended to simplify the complexity of financial infrastructure
+AutoLeap North America $30 $54 AutoLeap is an all-in-one automotive repair software that aims to help local garages better manage, understand, and grow their business
+Carbon Robotics North America $30 $67 Carbon Robotics develops AI robotic services for agriculture firms
+Certn North America $30 $114 Certn provides a background screening platform for employees, contractors, and tenants
+ID Finance Europe $30 $100 ID Finance is a retail banking and finance solution
+Memora Health North America $30 $83 Memora Health offers an online platform for digitizing and automating care programs
+Telepathy Labs North America $30 $68 Telepathy Labs develops voice and chatbot technology
+Bioyond Tech Asia $29 $37 Bioyond Tech is committed to using robotics and artificial intelligence technologies for the life sciences
+Yida Technology Asia $29 $74 Yida Technology provides IT services and digital solutions
+Veo Robotics Americas $29 $69 Manufacturer of industrial automation products intended to create industrial robots to work safely and efficiently alongside people
+Mosaic TX Europe $28 $39 Operator of an oncology therapeutics company intended to tackle cancers with substantial unmet needs
+Inshur North America $26 $72 Inshur develops a digital insurance platform to provide auto insurance to drivers and fleet owners
+Pattern (Biotechnology) Americas $24 $43 Provider of patient care and treatment analysis services intended to simplify antibiotic selection for life-threatening infections
+OXOS Medical North America $23 $38 OXOS Medical develops and manufactures orthopedic imaging devices and software
+SwissBorg Europe $23 $23 Developer of the cyber bank platform intended to provide wealth management services with a community-centric approach
+4.screen Europe $23 $29 Developer of an automotive technology created to develop the economic infrastructure of connected mobility
+Insurify Americas $22 $152 Developer of an online car, home, and life insurance platform intended to help users to compare insurance quotes all in one place
+Mojo Vision Americas $22 $205 Manufacturer of micro-led technology intended to design the smallest and densest dynamic display
+ClimateAi North America $22 $38 ClimateAi provides climate forecasting and agronomics services leveraging machine learning
+Harvey North America $21 $26 Harvey develops a software-as-a-service application that helps lawyers to practice law
+Nanoramic Laboratories Americas $21 $47 Developer of an energy storage systems and advanced materials company designed to offer innovative electrode technology
+Datasembly Americas $21 $40 Developer of data analytics platform designed to offer real-time data to make real-life decisions
+CHARM Therapeutics Europe $20 $70 Developer of a deep learning platform intended to deliver medicines of transformational efficacy for patients
+Biomica Middle East $20 $20 Operator of a clinical-stage biopharmaceutical company developing innovative microbiome-based therapeutics
+Brainbox AI North America $20 $71 BrainBox AI provides cloud-based artificial intelligence technology for commercial real estate buildings
+Fivecast Oceania $20 $24 Developer of an AI-enabled threat analytics platform designed to simplify complex business problems
+Lexion North America $20 $35 Lexion is an AI-powered contract management and operations workflow platform
+Robust.AI North America $20 $42 Robust
+New Innovations Asia $20 $43 New Innovations develops root C, an unmanned cafe robot equipped with demand-forecast AI technology
+Riverlane Europe $19 $43 Riverlane develops software that uses the capabilities of the quantum computer, which operates using quantum mechanics
+Chroma North America $18 $20 Chroma is an open-source AI-native embedding database
+Levee Americas $18 $18 Developer of a machine learning technology designed to enhance efficiency, productivity, and employee engagement rates
+Noble.Ai North America $17 $17 NobleAI operates as a software development company
+Smart Reporting Europe $16 $40 Smart Reporting provides an online platform for structured medical reporting, with options for junior and experienced radiologists
+Caristo Diagnostics Europe $16 $21 Caristo Diagnostics provides biotechnology services
+Capitola Middle East $16 $21 Developer of a dashboard and delegation platform designed to streamline the placement process for large commercial insurance
+Propeller Aerobotics Australia $15 $45 Propeller's platform automatically processes photos from a drone into mapping, modeling, and inspection data
+Wevnal Asia $15 $21 Provider of digital marketing services intended to create new value in an era of rapid change, trends, and shortened product cycles
+MindX Asia $15 $19 MindX provides a school chain for imparting new technology skills such as programming, robotics, design, 3D drawing, and more
+Trullion North America $15 $30 Trullion is an AI-powered accounting platform
+Rokid North America $15 $426 Rokid specializes in the research and product development of mixed reality and artificial intelligence solutions
+Sinpro Asia $15 $15 Sinpro is a millimeter-wave radar company that develops auto-grade environmental perception solutions suitable for higher levels devices
+Muye Microelectronics Asia $15 $15 Developer and researcher of 4D high-precision imaging radar designed for self-driving cars
+Sietium Asia $15 $15 Developer of GPU chips designed to provide computing power
+ZetaTech Asia $15 $28 Provider of one-stop digitized management solutions designed for semiconductor, photovoltaics and lithium-ion battery manufacturing
+Databaker Technology Asia $15 $23 Developer of intelligent voice interaction technology integrated with artificial intelligence and data services
+LeapFive Asia $15 $15 Developer of AIOT SoC chip products based on the RISC-V structure
+Raysees Asia $15 $30 Raysees is a high-tech company that specializes in the semiconductor optics area
+RoboticsAlpha Asia $15 $15 RoboticsAlpha is a high-tech enterprise dedicated to providing flexible and intelligent productivity with autonomous mobile robots (AMR)
+Finanzguru Europe $14 $30 Finanzguru provides an artificial intelligence (AI) based individual financial assistant
+tset Europe $14 $14 Developer of SaaS enterprise software designed to streamline cost calculation and CO2 transparency in the automotive industry
+Delphi Data Labs Europe $14 $14 Provider of market research and intelligence platform intended to serve the clean energy, food, and mechanical engineering industry
+Cornami North America $13 $167 Cornami is a computing company that develops reconfigurable computational fabric technologies
+thatDot Americas $13 $15 Developer of streaming graph platform designed to find complex patterns in massive data streams and trigger action immediately
+Ox Americas $13 $19 Developer of augmented reality software designed to optimize warehouse operations
+Cardinality North America $13 $13 Cardinality is a data technology company helping government agencies using Artificial Intelligence (AI) SaaS Solutions
+Fetcherr Asia $13 $21 Fetcherr offers a demand prediction and algo pricing platform designed to predict the crossroads between price and demand
+Quantum Source Asia $12 $27 Quantum Source is developing technology to enable a commercially viable, photonic quantum computer with millions of qubits
+estie Asia $12 $24 estie provides a real estate technology platform that offers interactive mapping
+Dexter Energy Europe $11 $15 Developer of a forecasting energy software designed to help energy retailers by reducing the imbalance on the electricity grid
+Scatter Lab Asia $11 $31 Developer of an AI-based mobile application designed to humanize interactive artificial intelligence
+Multiply Labs North America $11 $34 Multiply Labs builds robotic devices that produce customized medications
+Omy Laboratoires Americas $11 $11 Operator of an e-commerce platform intended to offer skincare and beauty enhancement products
+SetSail North America $11 $44 SetSail develops a platform designed to measure and reward true deal progress using machine learning
+Enote Europe $11 $13 Enote offers artificial intelligence (AI)-powered digital sheet music application
+OSO-AI Europe $11 $16 OSO-AI offers software that improves well-being and health through AI-based identification of human-related sounds
+Pricemoov Europe $11 $14 Developer of a smart price management platform designed to optimize pricing strategy
+nyris Europe $11 $17 nyris offers a visual search platform that provides aftermarket sales and Maintenance, Repair, and Operations (MRO) search solutions
+Sprout Solutions Asia $11 $18 Sprout Solutions offers an HR and payroll platform
+Carbonated Americas $11 $22 Operator of a mobile game studio intended to develop person-vs-person games with real-time gaming experience
+OnSiteIQ Americas $10 $24 Developer of construction documentation and Intelligence platform designed for risk assessment for development projects
+Aisles Americas $10 $10 Operator of an Artificial Intelligence (AI)-powered technology intended to provide safety features through their shopping application
+AKUVO Americas $10 $13 Developer of an analytical technique designed to assist in making financing and lending decisions
+Cortical Labs Australia $10 $10 Cortical Labs manufactures biological computer chips
+CryptoGPT Asia $10 $10 CryptoGPT is a zero-knowledge (ZK) layer 2 blockchains for AI development
+DeepMusic Asia $10 $10 DeepMusic is a music creation service provider based on artificial intelligence technology
+GATC Health Americas $10 $19 Operator of a multi-omic advanced technology platform intended to provide insight into individualized, specific health risks
+Groundlight AI North America $10 $10 Groundlight AI is a software development and artificial intelligence company
+SkyHive North America $10 $58 SkyHive offers an enterprise artificial intelligence (AI) platform to support workforce re-skilling within organizations
+Qdrant Europe $10 $10 Developer of a vector similarity search technology designed to power the next generation of artificial intelligence (AI) applications
+InfiniDome Asia $9 $13 InfiniDome specializes in anti-jamming solutions
+Mediwhale Asia $9 $24 Operator of an artificial intelligence-empowered health diagnostics company intended to help prevent heart and kidney diseases
+Brizo FoodMetrics Americas $9 $9 Developer of a predictive analytics solution platform designed to empower restaurant vendors and restauranteurs
+Cato Digital Americas $9 $51 Developer of software-based power control platform designed to distribute and manage power in data centers intelligently
+Next Gate Tech Europe $9 $19 Developer of a cloud-based fintech platform designed for creating new technologies for the asset management industry
+Flash Forest North America $9 $9 Flash Forest is a drone reforestation company
+LightMetrics Asia $9 $9 LightMetrics provides video telematics solutions to help make commercial vehicle fleets safe
+Redefine Asia $9 $9 Redefine provides an artificial intelligence-powered CI (Continuous Integration) optimization platform to accelerate software development cycles
+Treat Americas $9 $23 Operator of a customer database platform intended to help businesses to manage their customers
+Rupert Americas $8 $16 Developer of analytics distribution platform intended to solve the last mile problem in the analytics chain
+Toku Eyes Australia $8 $11 Toku Eyes develops the artificial intelligence device THEIA, which helps to address cardiovascular and ocular diseases
+Coreline Soft Asia $8 $30 Coreline Soft develops medical 3D imaging software
+Pion Asia $8 $12 Pion is a marketing tech focused video intelligence company that offers video analysis based on machine learning
+Lablup Asia $8 $10 Lablup provides an AI-based research, development, and service platform
+Phase Change Americas $8 $29 Dveloper of an artificial intelligence platform intended to improve the efficiency of software development
+Neuron Soundware Europe $8 $15 Neuron Soundware develops machine diagnostic technology so that potential failures can be detected early
+Oushisheng Asia $7 $7 Provider of continuous flow microreactor comprehensive solutions
+Cranium Americas $7 $7 Developer of an AI Security and Trust Platform designed to provide security and trust to the AI revolution
+Distyl AI North America $7 $7 Distyl AI provides a range of AI solutions
+The Helper Bees North America $7 $28 The Helper Bees provides insurance technology services to help the home care experience for the payer and care recipient
+Joyz Asia $7 $10 Joyz develops TerraTalk an English learning cloud for educational institutions that utilize AI technology
+Allotrope Energy Europe $7 $7 Allotrope Energy specializes in the development of nanoporous carbon and ion hybrid batteries
+OurSky Americas $7 $7 Developer of astronomy photography technology designed to offer artificial intelligence and automation to astrophotography
+eXplain Europe $6 $11 Developer of a data processing system designed to access all the information required in a territory to succeed in the projects
+Modus Europe $6 $12 Modus engineers and manages subsea construction equipment for the offshore energy sectors
+Companion North America $6 $14 Companion provides machine learning robotics to assist pet owners in training a dog
+CYFIRMA Asia $6 $18 CYFIRMA offers an external threat landscape management platform
+Dozee Asia $6 $24 Dozee develops a contactless health monitor system that tracks patients' heart rates, respiration, and sleep patterns while they sleep
+Hakimo North America $6 $10 Hakimo provides security monitoring services
+martini.ai Americas $6 $12 Developer of a corporate bond investing platform designed to simplify fixed-income investing
+Social Future Asia $6 $6 Social Future provides an AI-driven social metaverse platform
+Oblivious Europe $6 $7 Oblivious builds tools using artificial intelligence (AI) technology that specializes in data privacy and security
+Xiangke Inteligent Asia $6 $6 Xiangke Inteligent is a technology-driven robot and artificial intelligence start-up company
+Xapien Europe $6 $6 Xapien offers an artificial intelligence-powered, online research platform
+Pera Europe $6 $6 Pera operates as a human resource decision-making software
+TVARIT Europe $6 $9 TVARIT develops AI software for the manufacturing industry
+Justos South America $6 $44 Justos is an insurance company
+Sinay Europe $5 $9 Developer of a big data platform designed to study the marine environment
+Tvarit Europe $5 $9 Developer of AI algorithms intended for process optimization and scrap reduction in metal factories
+Mapped Americas $5 $15 Developer of an AI-powered data infrastructure platform designed for commercial and industrial IoT
+Teton AI Europe $5 $7 Teton AI is building computer vision-based contactless patient monitoring services
+JigSpace Oceania $5 $12 Developer of a digital 3D design platform intended to help people discover, create and share their knowledge
+Blacktop Hoops Americas $5 $6 Operator of a game development studio intended to offer competitive virtual reality streetball games
+Sign-Speak Americas $5 $0 Developer of a language software designed to translate sign language into the spoken word in real-time
+ForeSee Medical Americas $4 $46 Developer of a healthcare data management platform designed to facilitate clinical guidance, simplify, and automate the care delivery process

@@ -1,0 +1,96 @@
+Adept $415 $350 Americas Developer of machine learning model intended to reimagine the way that people interact with the computer
+Anthropic $1,304 $300 Americas Operator of an AI safety and research company intended to create large-scale AI systems that are steerable, interpretable, and robust
+Amelia $175 $175 Americas Developer of an automation and conversational enterprise platform designed to quickly develop new use cases creatively and deliver business value
+Verteego $152 $151 Europe Developer of descriptive analytics and predictive technology designed to enhance operational performance
+Character.ai $193 $150 Americas Developer of open-ended conversational applications designed to build dialog agents with a long tail of applications
+Deepway $179 $111 Asia Developer and manufacturer of smart vehicles designed to offer intelligent driving solutions for the truck freight market
+Cybereason $814 $100 Americas Cybereason develops software that aims to better track the actions of would-be cyber attackers
+Humane $241 $100 Americas Developer of hardware and software products intended to help people innovate through a genuine collaboration of design and engineering
+SiYi Intelligence $100 $100 Asia Developer of medical rehabilitation robots intended to help patients do rehabilitation training
+OKESTRO $115 $100 Asia OKESTRO is a domestic private cloud software company for cloud conversion and design consulting for construction and operation
+Socure $743 $95 Americas Socure provides digital identity verification and fraud solutions
+Artera $90 $90 Americas Operator of a precision medicine company developing artificial intelligence (AI) tests intended for cancer patients
+Wunderkind $155 $76 Americas Wunderkind provides a cloud-based behavioral marketing platform that identifies previously anonymous visitors
+Covariant $202 $75 Americas Covariant AI operates as a developer of artificial intelligence (AI) software
+Cardinal Operations $112 $73 Asia Cardinal Operations uses big data to provide solutions for firms under complex decision scenarios
+Apprentice $207 $65 Americas Developer of an intelligent manufacturing execution system designed to help life science businesses to meet the demand for getting life-saving drugs to market
+Congruence Therapeutics $65 $65 Americas Developer of pharmacological stabilizer designed for the treatment of rare diseases
+Nimble $115 $65 Americas Nimble builds a robotic warehouse to power economical e-commerce fulfillment
+Perspectum $137 $55 Europe Developer of a digital healthcare technology designed to offer safe, non-invasive alternatives to traditional abdominal testing methods
+Fourthline $71 $54 Europe Fourthline provides end-to-end KYC and AML compliance solutions to regulated institutions like banks, fintech companies, and brokers
+Plus One Robotics $95 $50 Americas Developer of a three-dimensional vision and control software designed to create robotic automation in the logistics and e-commerce markets
+Agreena $77 $49 Europe Developer of a soil carbon platform intended to scale regenerative agriculture through finance and technology
+Ghost Autonomy $224 $45 Americas Ghost Autonomy is a software development company
+Janus Health $53 $45 Americas Janus provides revenue cycle management technology (RCM) services
+SVision $63 $44 Asia Manufacturer and developer of ophthalmic Instruments designed for blood vessel medical imaging
+DataDome $81 $42 Europe Developer of a cybersecurity management platform intended to protect websites from bot traffic
+Viz.ai $289 $40 Americas Developer of an intelligent care coordination platform intended to fundamentally improve how healthcare is delivered in the world
+Greenlabs $233 $38 Asia Greenlabs provides integrated services for smart farms and digitizes agricultural solutions for farmers
+SESAMm $55 $37 Europe SESAMm operates as a financial technology company specializing in big data and artificial intelligence (AI) for asset management
+Overhaul $138 $35 Americas Overhaul is a supply chain management company that provides end-to-end visibility and risk management software solutions
+TandemAI $60 $35 Asia TandemAI provides technology dedicated to reinventing drug discovery infrastructure
+EarthOptics $50 $34 Americas Developer of global soil cloud designed for sustainable agricultural management
+Sparta Science $78 $34 Americas Developer of an evidence-based training platform designed to offer personalized and predictive analytics for athletes
+Verity $40 $32 Europe Verity provides autonomous indoor drone systems
+Hedvig $108 $31 Europe Hedvig provides insurance services
+Andes (Agriculture) $51 $30 Americas Developer of biotechnology designed to accelerate crop growth, reduce the need for synthetic nitrogen and increase carbon capture in soil, and tackle climate change
+Bioyond Tech $37 $29 Asia Bioyond Tech is committed to using robotics and artificial intelligence technologies to provide a new generation of modular products and automation solutions for the life sciences
+Magic $33 $28 Americas Operator of a software development company intended to build aligned and more complete AI
+OP3N $38 $28 Americas Operator of a global community platform intended to combine web2 and web3 where chat, commerce, and community are at the forefront
+Spotdraft $44 $26 Asia Opeartor of an online legal platform designed to draft and execute legal contracts
+Perplexity AI $29 $26 Americas Developer of an artificial intelligence-based search engine platform designed to provide large language models and search engines
+Vital $46 $25 Americas Developer of hospital emergency software designed to enhance patient experiences and emergency department flow
+1X (Electrical Equipment) $40 $24 Europe Developer of humanoid robots designed to operate in the physical world
+XXII $25 $23 Europe Developer of a video analysis platform designed for deploying and configuring algorithms for video stream analysis
+Quantifind $104 $23 Americas Developer of a financial crime intelligence automation platform designed to discover risk by combining internal financial institution data with public domain data
+HealthPlix $48 $22 Asia Developer of a digital health platform designed to provide clinical decision support through AI technology
+Parloa $26 $21 Europe Developer of a conversational artificial intelligence platform intended for building automated dialogs with the help of machine learning
+CAST AI $43 $20 Americas CAST AI is a SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure, and Google Cloud
+Inato $36 $20 Europe Inato provides an AI-based data collection tool for the pharmaceutical sector
+Luma AI $24 $20 Americas Luma AI is developing a neural rendering technology that makes it possible to take a small number of photos to generate, shade, and render a photo-realistic 3D model of a product
+Pathos $30 $20 Americas Developer of drug discovery platform intended to reduce the duration of the medication development process
+Protai $20 $20 Middle East Developer of proteomics-centered artificial intelligence (AI) powered platform designed to improve the way new drugs are discovered
+Seldon $33 $20 Europe Seldon Technologies accelerates the adoption of machine learning to solve challenging problems
+Paige $240 $20 Americas Developer of computational pathology module platform designed for rapid diagnostic stratification and cancer detection
+Numbers Station $22 $18 Americas Developer of an AI-powered platform designed to rapidly automate data-intensive workflows
+Xgen AI $24 $17 Americas Developer of a customer experience optimization platform designed to predict consumer behavior and buying habits
+Iktos $21 $17 Europe Developer of a drug-designing technology designed to offer expertise in the field of ligand-based de novo design for multi-parameter optimization
+Talpa $23 $16 Europe Developer of a live data processing platform designed to assist the international mining industry with carrying out digital transformation
+Levitate $42 $16 Americas Operator of a customer relationship management platform intended to help become more creative and entrepreneur-friendly
+Drift Net Securities $23 $16 Americas Developer of a network security ecosystem designed to keep communities safe from disrupting security, threat, and AI-based technology
+Miso Robotics $106 $15 Americas Developer of an autonomous robotic kitchen assistant designed to empower chefs to make food consistently and perfectly
+Edited $47 $15 Europe Developer of a real-time analytics platform designed to help retailers improve their decision-making
+IrriGreen $21 $15 Americas Developer of an IoT digital sprinkler system designed to digitize landscape irrigation
+Unlearn $86 $15 Americas Developer of a machine-learning platform designed to create digital twins used to populate intelligent control arms in clinical studies
+Taifang Technology $15 $15 Asia Developer of multi-touch screen hardware
+QBoson $16 $15 Asia Developer of quantum computing products designed for for traditional general computing and Artificial Intelligence.
+BranD New Data $15 $15 Asia Developer and provider of big data products and services designed for data operation management
+HyperSilicon $15 $15 Asia Developer and provider of Field Programmable Gate Arrays (FPGA) prototype verification and hardware emulation accelerator Exploratory Data Analysis (EDA) tools.
+Graft $15 $15 Americas Developer of a cloud-native platform designed to provide unstructured data analysis
+Kaye Technology $14 $14 Asia Provider and supplier of automation equipment designed for milk tea shops and coffee shops
+Arkestro $40 $14 Americas Arkestro operates a predictive procurement orchestration platform
+Gauge Automotive $17 $14 Americas Operator of an online automotive marketplace intended to simplify the sale of used vehicles
+Finanzguru $30 $14 Europe Finanzguru provides an AI-based individual financial assistant
+deepc $13 $13 Europe deepc is a medical technology company
+Mythic $172 $13 Americas Mythic develops a local artificial intelligence (AI) platform
+Sifflet $37 $13 Europe Developer of cloud-native data monitoring platform intended to drive business with trustworthy data
+V-Nova $101 $12 Europe Developer of video compression software dedicated to improving data compression
+Yoti $106 $12 Europe Developer of a digital identity platform designed to provide a simple and secure way of proving identities online and face-to-face
+Qwak $31 $12 Middle East Developer of an end-to-end production machine learning platform designed to reduce the friction between the ML research and the production phases
+Voc.ai $12 $12 Asia Provider and operator of an e-commerce platform
+Fixie $16 $11 Americas Developer of a cloud-based platform designed to build, host, and scale natural language agents
+Recorded Future $70 $11 Americas Recorded Future delivers threat intelligence powered by patented machine learning to significantly lower risk.
+Frontier Field $21 $11 Asia Operator of medical information and communication platform intended to ease healthcare mechanisms and services
+CodiumAI $11 $11 Middle East Developer of a code analyzer platform intended to investigate code and generate meaningful tests to catch bugs
+nyris $17 $11 Europe nyris offers a visual search platform that provides aftermarket sales and Maintenance, Repair, and Operations (MRO) search solutions
+Viirtue $11 $11 Americas Developer of communications applications designed to improve the productivity of companies
+Sesame IT $11 $11 Europe Developer of a superimposed threat detection platform designed to detect network attacks and facilitate the processing of alerts in case of cyberattacks
+TROOP $19 $11 Americas Developer of an event planning platform designed to organize effective global meetings and events strategies for teams
+IPRally $15 $11 Europe Developer of a knowledge search platform designed to analyze and understand the technical details of patents
+Coactive $14 $10 Americas Developer of an application programming interface designed to empower data practitioners and data-driven teams to unlock insights into the unstructured image and video data
+Stratyfy $14 $10 Americas Provider of predictive model development and decision optimization services intended to reduce operational and financial risks
+Abnormal Security $294 $10 Americas Abnormal Security provides a cloud email security platform that protects enterprises from targeted email attacks
+DeepMusic $10 $10 Asia DeepMusic is a music creation service provider based on artificial intelligence technology
+Pragma Biosciences $29 $10 Americas Operator of a biotechnology agency intended to transform cancer therapy through the microbiome
+SynSense $58 $10 Asia Developer of neuromorphic computing platform designed to provide a combination of ultra-low power consumption and low latency performance
+Videocites $10 $10 Middle East Operator of a video searching and monitoring platform intended to ease the process of video citation
